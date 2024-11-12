@@ -8,7 +8,7 @@
 [bg storage=start.jpg width=1280 height=720 time=500]
 
 
-[position left=16 top=16 width=928 height=608 margint=16 marginl=16 visible=true]
+[position left=16 top=16 width=928 height=608 marginl=16 visible=true]
 [font size=50]
 「やがぽんを探せ」[r]
 [chara_new name="yagapon" storage="yaga/yagapon.png"]
@@ -28,7 +28,7 @@ _　本物の矢上祭もぜひ遊びに来てね！！[l][r]
 [freeimage layer="1" time="500"]
 
 [bg storage=start.jpg width=1280 height=720 time=500]
-[position left=0 top=500 width=1280 height=300 margint=0 visible=true]
+[position left=0 top=505 width=1280 height=320 visible=true]
 今日は待ちに待った矢上祭。[l][r]
 うきうきで大階段を登ると、知らない声に呼び止められた。[l][r]
 「あの…お願いがあって……」[l][r]
