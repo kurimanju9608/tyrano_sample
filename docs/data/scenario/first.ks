@@ -379,7 +379,7 @@ alert(f.input);
 「本当にありがとうございます！」[l][r]
 無事にやがぽんを預け、お礼までいただいた。[l][r]
 これにて一件落着！[l][r]
-【 END 】[l][cm]
+【 NORMAL END 】[l][cm]
 [jump target=*start]
 
 *goodend
@@ -396,6 +396,6 @@ alert(f.input);
 「ありがとう」[l][r]
 満面の笑みでやがぽんは言った。[l][r]
 無事にやがぽんを送り届け、私は大満足で矢上祭を後にした。[l][r]
-【 END 】[l][cm]
+【 HAPPY END 】[l][cm]
 [jump target=*start]
 
