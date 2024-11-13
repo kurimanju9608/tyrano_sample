@@ -58,7 +58,8 @@ _　本物の矢上祭もぜひ遊びに来てね！！[l][r]
 [link target=*11tou] → 11棟 [endlink][r]
 [link target=*12tou] → 12棟　　　　　[endlink]
 [link target=*14tou] → 14棟 [endlink][r]
-[link target=*badend] → 矢上祭を出る [endlink][r]
+[link target=*badend] → 矢上祭を出る　 [endlink]
+[link target=*prologue] → 戻る [endlink][r]
 [s]
 
 *ground
@@ -388,6 +389,7 @@ alert(f.input);
 「ようこそ！特別席にご案内しますね。」[l][r]
 係の人に案内され、花火の打ち上げ場所から最も近い席に座る。[l][r]
 気がつけばあたりも暗くなり、周りに人も集まり始めた。[l][r]
+[quake count=3 time=200]
 「ドンッ」[l][r]
 文字通り目の前で上がっていく花火にやがぽんも私も見入っていた。[l][r]
 花火が終わり、帰ろうと席を立つと[l][r]
